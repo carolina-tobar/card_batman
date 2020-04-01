@@ -6,14 +6,19 @@
     padding:0;
     text-decoration: none;
     box-sizing:border-box;
+    
 }
 .fondo{
     background-color: #1e1b26;
     width:450px;
     height:800px;
+    margin:20px;
+    box-shadow:10px 10px 11px 0px rgba(0,0,0,0.78);
+    border-radius:10px
 }
 .imagen{
     width:100%;
+    border-radius:10px;
 }
 .titulo{
     font-family:Montserrat, sans-serif;
