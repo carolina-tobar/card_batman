@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800,300italic,400italic,600italic,700italic,800italic);
+
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    box-sizing:border-box;
+}
+.fondo{
+    background-color: #1e1b26;
+    width:450px;
+    height:800px;
+}
+.imagen{
+    width:100%;
+}
+.titulo{
+    font-family:Montserrat, sans-serif;
+    font-size:44px;
+    color: #e7e7e7;
+    padding-left:20px;
+}
+.subtitulo1{
+    font-family:Montserrat, sans-serif;
+    color: #e7e7e7;
+    text-transform:uppercase;
+    padding:20px;
+}
+.subtitulo2{
+    font-family:Roboto, sans-serif;
+    color: #9b9b9b;
+    padding-left:20px;
+}
+.resumen{
+    font-family:Roboto, sans-serif;
+    color: #9b9b9b;
+    text-align:justify;
+    padding-left:20px;
+    padding-right:20px;
+}
+.reparto{
+    font-family:Roboto, sans-serif;
+    font-style:italic;
+    color: #e7e7e7;
+    padding-left:20px;
+}
+.boton{
+    font-family: Roboto, sans-serif;
+    text-decoration:none;
+    text-transform:uppercase;
+    color:#fe4141;
+    font-style:none;
+    border: 2px solid #fe4141;
+    border-radius:10px;
+    margin:20px;
+    padding: 10px 12px 10px 8px;
+}
+.flecha{
+    height:15px;
+}
